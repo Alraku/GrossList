@@ -2,7 +2,6 @@ import json
 import gkeepapi
 
 from types import SimpleNamespace
-from pprint import pprint
 
 readyShopList = []
 
